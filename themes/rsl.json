@@ -238,8 +238,8 @@
             "font_weight": 700
           },
           "hint": {
-            "color": "#FF00FFFF",
-            "font_style": null,
+            "color": "#bfbdb6FF",
+            "font_style": "italic",
             "font_weight": null
           },
           "keyword": {
@@ -333,7 +333,7 @@
             "font_weight": 700
           },
           "selector.pseudo": {
-            "color": "#FF00FFFF",
+            "color": "#DBDBDBFF",
             "font_style": null,
             "font_weight": null
           },
