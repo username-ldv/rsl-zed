@@ -1,21 +1,14 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Red Spider Lily",
-  "author": "username-011",
+  "author": "username-ldv",
   "themes": [
     {
       "name": "Red Spider Lily Dark",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
-        "accents": [
-          "#e11b32ff",
-          "#d8c0a8ff",
-          "#c0a8a8ff",
-          "#906060ff",
-          "#b11628ff",
-          "#9b9b8cff"
-        ],
+        "accents": ["#e11b32ff", "#d8c0a8ff", "#c0a8a8ff", "#906060ff", "#b11628ff", "#9b9b8cff"],
         "border": "#313131ff",
         "border.variant": "#2e2b2bff",
         "border.focused": "#b11628ff",
@@ -651,14 +644,7 @@
       "appearance": "light",
       "style": {
         "background.appearance": "opaque",
-        "accents": [
-          "#e11b32ff",
-          "#3d352dff",
-          "#4d4343ff",
-          "#442626ff",
-          "#b11628ff",
-          "#616158ff"
-        ],
+        "accents": ["#e11b32ff", "#3d352dff", "#4d4343ff", "#442626ff", "#b11628ff", "#616158ff"],
         "border": "#adadadff",
         "border.variant": "#c4c4c4ff",
         "border.focused": "#b11628ff",
@@ -1294,14 +1280,7 @@
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
-        "accents": [
-          "#eeeeeeff",
-          "#c4c4c4ff",
-          "#a6a6a6ff",
-          "#8b8b8bff",
-          "#dadadaff",
-          "#bebebeff"
-        ],
+        "accents": ["#eeeeeeff", "#c4c4c4ff", "#a6a6a6ff", "#8b8b8bff", "#dadadaff", "#bebebeff"],
         "border": "#313131ff",
         "border.variant": "#2a2a2aff",
         "border.focused": "#a6a6a6ff",
@@ -1937,14 +1916,7 @@
       "appearance": "light",
       "style": {
         "background.appearance": "opaque",
-        "accents": [
-          "#242421ff",
-          "#4b4b4bff",
-          "#686868ff",
-          "#3a3a3aff",
-          "#575757ff",
-          "#7c7c7cff"
-        ],
+        "accents": ["#242421ff", "#4b4b4bff", "#686868ff", "#3a3a3aff", "#575757ff", "#7c7c7cff"],
         "border": "#adadadff",
         "border.variant": "#c4c4c4ff",
         "border.focused": "#33332fff",
